@@ -1,3 +1,7 @@
+
+an outline of a sample end-to-end deployment script using UCD:
+
+Note: The actual implementation may vary depending on your specific application and environment setup.
 #!/bin/bash
 
 # Define UCD CLI executable and UCD server URL
